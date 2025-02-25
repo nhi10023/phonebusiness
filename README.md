@@ -2,7 +2,7 @@
 
 - Cài đặt docker
 - Clone Project: chạy lệnh này ở git bash:
-    - git clone https://github.com/nhi10023/PhoneBusiness.git
+    - git clone [https://github.com/nhi10023/PhoneBusiness.git](https://github.com/nhi10023/phonebusiness/tree/master)
 - Mở git bash trong project
 - Nếu chạy bằng windown thì chạy 3 lệnh này trước
     - git config --global core.autocrlf input
